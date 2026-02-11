@@ -1,1 +1,1 @@
-# Full stack(MERN) Secure Cummunication Platform
+# Full stack(MERN) Secure Cummunication Web App
